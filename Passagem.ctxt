@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Passagem
+comment1.params=viagem\ passageiro
+comment1.target=Passagem(Viagem,\ Passageiro)
+comment2.params=
+comment2.target=Viagem\ getViagem()
+comment3.params=
+comment3.target=Passageiro\ getPassageiro()
+comment4.params=
+comment4.target=double\ getValorEfetivo()
+comment5.params=viagem
+comment5.target=void\ setViagem(Viagem)
+comment6.params=passageiro
+comment6.target=void\ setPassageiro(Passageiro)
+comment7.params=valorEfetivo
+comment7.target=void\ setValorEfetivo(double)
+comment8.params=
+comment8.target=void\ imprimeInfo()
+numComments=9
